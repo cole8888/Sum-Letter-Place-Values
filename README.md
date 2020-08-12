@@ -9,4 +9,6 @@ To run it:
 
 python3 sumLetterPlaceValues.py
 
+Example:
+
 ![Example](Screenshot_20200812_023421.png)
