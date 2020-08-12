@@ -8,3 +8,5 @@ Tested on Ubuntu Linux 20.04 using python 3.8, there are some subprocess command
 To run it:
 
 python3 sumLetterPlaceValues.py
+
+![Example](test.png)
