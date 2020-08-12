@@ -12,7 +12,7 @@ def getWord():
     subprocess.check_call(["stty","icanon"])
     return inputStr
 
-# Sum up the the alphabetical place values for every letter in the
+# Sum up the alphabetical place values for every letter in the
 # given string and ignore any characters which are not letters.
 def getCharSum(word):
     chars = [''] * len(word)
