@@ -10,11 +10,11 @@ Tested on Ubuntu Linux 20.04 using python 3.8.
 
 To run using command line input mode:
 
-python3 sumLetterPlaceValues.py
+`python3 sumLetterPlaceValues.py`
 
 or, use file input mode:
 
-python3 sumLetterPlaceValues.py input.txt
+`python3 sumLetterPlaceValues.py input.txt`
 
 Example:
 
